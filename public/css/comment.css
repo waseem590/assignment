@@ -1,0 +1,11 @@
+.media-body input{
+    height:40px;
+    width:400px;
+    border-radius:10px;
+    border:none;
+}
+#data
+{
+    margin-top:60px;
+    margin-left:300px;
+}
